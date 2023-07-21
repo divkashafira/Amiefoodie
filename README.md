@@ -1,2 +1,2 @@
 # Amiefoodie
-aplikasi pemesanan makanan
+aplikasi pemesanan makanan berbasis C# menggunakan xamarin
